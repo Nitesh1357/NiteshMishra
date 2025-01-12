@@ -24,19 +24,19 @@ description: >-                        # used by seo meta and the atom feed
   Tron Legacy ,system design and maybe food ?
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: 'https://niteshmishra.github.io'
+url: 'https://Nitesh1357.github.io'
 
 github:
-  username: harshityadav95 # change to your GitHub username
+  username: Nitesh1357 # change to your GitHub username
 
 twitter:
-  username: harshityadav95 # change to your Twitter username
+  username: Niteshmisra1357 # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Harshit Yadav
-  email: harshityadav@outlook.com # change to your email address
+  name: Nitesh Kumar Mishra
+  email: niteshmishra1357@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://x.com/Niteshmisra1357 # change to your Twitter homepage
@@ -89,7 +89,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: light
+theme_mode: light | dark
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
@@ -120,10 +120,10 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: 'Nitesh1357/NiteshMishra' #'harshityadav95/harshityadav95.github.io'
-    repo_id: 'MDEwOlJlcG9zaXRvcnkzNzk5MTc2OTQ='
-    category: 'Posts'
-    category_id: 'DIC_kwDOFqUVfs4CYFPn'
+    repo: 'Nitesh1357/Niteshm1357' #'harshityadav95/harshityadav95.github.io'
+    #repo_id: 'MDEwOlJlcG9zaXRvcnkzNzk5MTc2OTQ='
+    #category: 'Posts'
+    #category_id: 'DIC_kwDOFqUVfs4CYFPn'
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: 'top'
